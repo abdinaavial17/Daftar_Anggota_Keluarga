@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Keluargaku</string>
+    <string name="name_heroes">Nama Anggota Keluarga</string>
+    <string name="lorem">Lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Hilmi Suleman</item>
+        <item>Arsiyanti Labuan</item>
+        <item>Abdi Naavial Umam Suleman</item>
+        <item>Najwa Putri Ariliansyah Suleman</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Hilmi Suleman lahir di Bunta tanggal 29 Oktober 1981 bekerja sebagai wiraswasta.
+            Pendidikan terakhir yaitu sekolah menengah atas di SMA Negeri 1 Bunta</item>
+        <item>Arsiyanti Labuan lahir di Luwuk tanggal 14 Juni 1975 bekerja sebagai PNS. Pendidikan
+        Terakhir di Universitas Tompotika dengan gelar S1 - Kesehatan Masyarakat</item>
+        <item>Abdi Naavial Umam Suleman Lahir di Luwuk tanggal 17 April 2002 sekarang lagi melanjutkan
+        pendidikan S1 - Teknik informatika di Universitas Tadulako. Tamatan di SMA Negeri 3 Luwuk</item>
+        <item>Najwa Putri Ariliansyah Suleman Lahir di Luwuk 18 Maret 2006 masih SMA. saat
+         Kelas 1 dia bersekolah di Asrama MAN IC Kota Palu dan sekarang dia pindah ke Luwuk
+        dan bersekolah di SMA Negeri 1 Luwuk</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/papa</item>
+        <item>@drawable/mama</item>
+        <item>@drawable/abdi</item>
+        <item>@drawable/nanju</item>
+    </array>
+</resources>
